@@ -41,13 +41,17 @@ Projeto Final AED/
 ## 🎥 Link do Vídeo
 
 Assista à apresentação do projeto no YouTube:  
-[Apresentação SPT - AED](https://youtu.be/zL71Pg2_JzI)
+<a href="https://youtu.be/zL71Pg2_JzI" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="20"/> Apresentação SPT - AED
+</a>
 
 ---
 
 ## 🖥 Interface do Programa
 
-![Interface do SPT](images/programa.png)
+<div align="center">
+  <img src="images/programa.png" alt="Interface do SPT" width="600"/>
+</div>
 
 ---
 
